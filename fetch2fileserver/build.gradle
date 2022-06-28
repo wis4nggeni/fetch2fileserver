@@ -71,7 +71,7 @@ dependencies {
 publish {
     userOrg = 'tonyofrancis'
     groupId = 'androidx.tonyodev.fetch2fileserver'
-    artifactId = 'xfetch2fileserver'
+    artifactId = 'fetch2fileserver'
     publishVersion = library_version
     desc = 'Fetch File Server'
     website = 'https://github.com/tonyofrancis/fetch'
